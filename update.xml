@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+  <app appid="adbpdiddphmiincdepknchinimhjgogl">
+    <updatecheck
+      codebase="https://USERNAME.github.io/sd72-extension/sd72-device-manager.crx"
+      version="1.0.0"/>
+  </app>
+</gupdate>
